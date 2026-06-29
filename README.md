@@ -88,7 +88,9 @@ shelf_detection/
 3. Скачать датасет SKU-110K (выполняется автоматически в ноутбуке)
 4. Выполнить ячейки последовательно
 ## Технологии
- 
+ bash
+runme run --filename README.md
+
 Python 3.12, PyTorch 2.11, Ultralytics 8.4.75, torchvision 0.18, effdet 0.4, pycocotools, Gradio.
  
 ## Авторы
